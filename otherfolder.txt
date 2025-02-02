@@ -1,1 +1,2 @@
-test commit from other folder  
+test commit from other folder
+test commit from this folder. and I will make some more changes in the other folder and then commit it there. but then also pull before pushing.
