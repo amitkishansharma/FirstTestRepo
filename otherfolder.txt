@@ -6,3 +6,4 @@ so adding the test here. and lets see if this get overritten or not. or does it 
 ok. so now the conflicts are resolved. now lets run a rebase test. I will first add some lines here. commit and push the changes.
 will commit some lines in the other copy.
 and then rebase in the second copy.
+so added a new line here.
