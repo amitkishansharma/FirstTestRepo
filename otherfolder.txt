@@ -1,3 +1,8 @@
 test commit from other folder
+test commit from this folder. and I will make some more changes in the other folder and then commit it there. but then also pull before pushing.
+test commit from other folder
 so adding the test here. and lets see if this get overritten or not. or does it ask for confilict resolutions.
 
+ok. so now the conflicts are resolved. now lets run a rebase test. I will first add some lines here. commit and push the changes.
+will commit some lines in the other copy.
+and then rebase in the second copy.
