@@ -1,1 +1,3 @@
-test commit from other folder  
+test commit from other folder
+so adding the test here. and lets see if this get overritten or not. or does it ask for confilict resolutions.
+
